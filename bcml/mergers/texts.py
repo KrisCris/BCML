@@ -17,11 +17,11 @@ from bcml import mergers, util
 from bcml.util import get_7z_path
 
 EXCLUDE_TEXTS = [
-    "ErrorMessage",
-    "StaffRoll",
-    "LayoutMsg/MessageTipsRunTime_00",
-    "LayoutMsg/OptionWindow_00",
-    "LayoutMsg/SystemWindow_00",
+    # "ErrorMessage",
+    # "StaffRoll",
+    # "LayoutMsg/MessageTipsRunTime_00",
+    # "LayoutMsg/OptionWindow_00",
+    # "LayoutMsg/SystemWindow_00",
 ]
 
 LANGUAGES = [
